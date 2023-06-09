@@ -1,4 +1,4 @@
-certNumber // 證書編號 對應candidate_message的ID 
+certNumber // 證書編號 對應candidate_message的ID
 assessmentNumber // 評定書編號  對應candidate_message的Assessment_ID
 buildingName // 建築物名稱  對應candidate_message的building_name
 owner // 起造人
@@ -20,6 +20,6 @@ contractor // 承辦人
 regulatoryRequirements // 受法規要求
 bonusName // 容積獎勵名稱
 bonusVolume // 容積獎勵
-candidateCertNumber // 候選證書編號
+candidateCertNumber // 候選證書編號 對應label_message的 candidate_ID
 administrativeDistrict // 所屬行政區
 plateNumber // 門牌
