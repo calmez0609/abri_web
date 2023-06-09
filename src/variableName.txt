@@ -1,0 +1,25 @@
+certNumber // 證書編號 對應candidate_message的ID 
+assessmentNumber // 評定書編號  對應candidate_message的Assessment_ID
+buildingName // 建築物名稱  對應candidate_message的building_name
+owner // 起造人
+ownerAddress // 起造人地址
+designer // 建築物設計人
+publicOrPrivate // 公有 / 民間 對應candidate_message的govermental
+usageType // 用途別 對應candidate_message的class
+applicableStandard // 適用基準 對應candidate_message的version
+level // 等級 對應candidate_message的LEVEL
+passCriteria // 通過指標 對應candidate_message的project_name
+indicatorCount // 指標數 對應candidate_message的project_num
+location // 建築地點
+totalFloorArea // 總樓地板面積 (m2)
+constructionCost // 工程造價 (億元)
+buildingSummary // 建築物概要
+unitCount // 戶數
+projectType // 工程類別
+contractor // 承辦人
+regulatoryRequirements // 受法規要求
+bonusName // 容積獎勵名稱
+bonusVolume // 容積獎勵
+candidateCertNumber // 候選證書編號
+administrativeDistrict // 所屬行政區
+plateNumber // 門牌

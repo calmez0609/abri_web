@@ -8,8 +8,21 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.0-alpha3",
     "core-js": "^3.8.3",
+    "cors": "^2.8.5",
+    "docxtemplater": "^3.37.9",
+    "express": "^4.18.2",
+    "file-saver": "^2.0.5",
+    "jszip": "^3.10.1",
+    "jszip-utils": "^0.1.0",
+    "mitt": "^3.0.0",
+    "mysql": "^2.18.1",
+    "pizzip": "^3.1.4",
+    "vee-validate": "^4.9.6",
     "vue": "^3.2.13",
+    "vue-axios": "^3.5.2",
     "vue-router": "^4.0.3"
   },
   "devDependencies": {
