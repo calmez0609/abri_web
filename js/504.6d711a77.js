@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkabri_web"]=self["webpackChunkabri_web"]||[]).push([[504],{8504:function(n,a,e){e.r(a),e.d(a,{default:function(){return f}});var r=e(3396);const u={class:"about"},t=(0,r._)("h1",null,"This is an about page",-1),s=[t];function i(n,a){return(0,r.wg)(),(0,r.iD)("div",u,s)}var c=e(89);const b={},o=(0,c.Z)(b,[["render",i]]);var f=o}}]);
+//# sourceMappingURL=504.6d711a77.js.map
